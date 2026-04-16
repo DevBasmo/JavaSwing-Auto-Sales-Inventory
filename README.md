@@ -1,4 +1,4 @@
-<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/ae3d8d6e-c978-4658-a62f-517d1a16a624" />##### \# Auto Sales Inventory System
+#####  Auto Sales Inventory System
 
 ##### 
 
