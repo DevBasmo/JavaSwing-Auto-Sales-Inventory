@@ -1,4 +1,4 @@
-##### \# Auto Sales Inventory System
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/ae3d8d6e-c978-4658-a62f-517d1a16a624" />##### \# Auto Sales Inventory System
 
 ##### 
 
@@ -46,7 +46,8 @@
 
 ##### \- Download and install Java on your computer
 
-##### \- Open the project in NetBeans
+##### \- Open the project in any Java IDE (NetBeans, IntelliJ, Eclipse)
+
 
 ##### \- Run the AutoSalesMainClass.java file
 
